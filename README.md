@@ -10,4 +10,4 @@ Antud kursus annab ülevaate programmeerimise aluste baasteadmistest PHP keele b
     *PhpStorm põhiseadistus (line numbers, soft wrap, zoom)
     *git.exe ühendus PhpStormiga
     *github.com repo loomine ning Ühendamine PhpStormiga
-    *
+    * mine ... tulevikku
