@@ -10,3 +10,6 @@ kommentaar
  * dokumentatsiooni
  * kommentaar
  *//
+
+// v2ljastus php-s
+print "tere maailm!";
