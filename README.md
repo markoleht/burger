@@ -34,3 +34,18 @@ git push -uf origin master
 ```
 
 Siis origin on yhenduse nimi ja master on peaharu
+
+ALTERNATIVSELT -  GIT'i saab lisaks k2sureale hallata ka k2skudega.
+ * VCS - verision control sys
+ * commit - (cmd - K shortcut)
+ * kui pushid siis pole m6tet k6iki faile pushida - eemalda linnukesed yleliigsetelt ( hetkel pushi vaid readme.md faili ja ainult sellel linnuke ees)
+ * commit & push
+ 
+ JA VEEL - - - 
+ 
+ * git kasutamine l2bi PhpStormi
+ ```
+VCS - > commit (CMD + K)
+```
+
+Antud aknas vali vajalikud failid, mis on vaja atud committiga seostada, lisa commiti s6ne ja vajuta committ v6i committ & push.
