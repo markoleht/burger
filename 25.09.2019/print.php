@@ -1,4 +1,5 @@
 <?php
+
 //yherealine kommentaar
 /*
 mitme-
@@ -9,7 +10,9 @@ kommentaar
 /*
  * dokumentatsiooni
  * kommentaar
- *//
+ */
 
 // v2ljastus php-s
-print "tere maailm!";
+print "Tere maailm!<br>";
+echo "Mingi tekst veel<br>";
+echo 'Veel mingi tekst<br>';
