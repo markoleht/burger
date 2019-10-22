@@ -6,8 +6,7 @@
 
 function isPrimeNumber($number) {
     if ($number < 2) {
-
-        echo $number . 'antud arv ei kuulu valitud vahemiku sisse<br>';
+        $result =  $number . 'antud arv ei kuulu valitud vahemiku sisse<br>';
     } else {
         $divider = 2;//define divider
         while ($number % $divider != 0) {
@@ -16,13 +15,15 @@ function isPrimeNumber($number) {
         }
         //if number and divider is equal - prime number
         if ($number == $divider) {
-            echo $number . ' on algarv<br>';
-            $sum = $sum + $number; //$sum + $number;
+            $result = $number . ' on algarv<br>';
         } else {
             //otherwise
-            echo $number . ' ei ole algarv<br>';
+            $result = $number . ' ei ole algarv<br>';
         }
     }
+    return $result;
 }
+//define function, which use the boolean result of isPrimeNumber and
+//show the text - is prime or is not prime with the number value
 //use tehd efined function
-isPrimeNumber(rand(0,1000));
+
