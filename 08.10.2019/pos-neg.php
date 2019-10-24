@@ -1,4 +1,5 @@
 <?php
+// NB: Kopeeritud õpetaja repost kuna puudusin koolist.
 // define variables
 $number = -25;
 /*var_dump($number < 0);
