@@ -1,9 +1,4 @@
 <?php
-/**
- * file name: post-pre.php;
- * autor: anna.karutina;
- * date: 07.10.2019;
- */
 // define variables
 $x = 10;
 echo 'x = '.$x.'<br><hr>';
