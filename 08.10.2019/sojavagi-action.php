@@ -1,5 +1,7 @@
 <?php
 
+//NB: Kopeeritud õpetaja repost kuna puudusin koolist.
+
 ?>
     <!doctype html>
     <html lang="en">
