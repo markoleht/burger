@@ -1,9 +1,7 @@
 <?php
-/**
- * file name: nulliga-jagamine-vorm.php;
- * autor: anna.karutina;
- * date: 08.10.2019;
- */
+
+//NB: Kopeeritud õpetaja repost kuna puudusin koolist.
+
 ?>
 <!doctype html>
 <html lang="en">
