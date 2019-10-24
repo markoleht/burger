@@ -1,5 +1,6 @@
 # Päeva teemad
 ## Aritmeetilised operaatorid
+### NB: Kopeeritud õpetaja repost kuna puudusin koolist.
 ```
 <?php
 $summa = $x + $y;
