@@ -1,4 +1,5 @@
 <?php
+// NB: Kopeeritud õpetaja repost kuna puudusin koolist.
 $temperature = -20; // weather temperature
 $background = ''; // page background
 if($temperature <= -20) {
