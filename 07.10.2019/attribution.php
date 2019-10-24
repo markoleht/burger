@@ -29,11 +29,9 @@
 </head>
 <body>
 <?php
-/**
- * file name: attribution.php;
- * autor: anna.karutina;
- * date: 07.10.2019;
- */
+    
+//NB: Kopeeritud õpetaja repost kuna puudusin koolist.
+    
 // define variables
 $x = 8;
 // output table
