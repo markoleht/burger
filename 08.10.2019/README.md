@@ -3,6 +3,7 @@
 ### Loogiline avaldis
 Avaldis, mille tulemus on ```true``` või ```false```. 
 ### Loogiliste avaldiste operaatorid
+#### NB: Kopeeritud õpetaja repost kuna puudusin koolist.
 ```
 == - võrdub
 != - ei võrdu
