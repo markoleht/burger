@@ -36,11 +36,9 @@
 <body>
     <div id="container">
 <?php
-/**
- * file name: nulliga-jagamine-action.php;
- * autor: anna.karutina;
- * date: 08.10.2019;
- */
+
+        // NB: Kopeeritud õpetaja repost kuna puudusin koolist.
+        
 // get the data from the form
 $number1 = $_GET['number1'];
 $number2 = $_GET['number2'];
