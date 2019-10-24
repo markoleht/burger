@@ -1,9 +1,5 @@
 <?php
-/**
- * file name: sojavagi-action.php;
- * autor: anna.karutina;
- * date: 08.10.2019;
- */
+
 ?>
     <!doctype html>
     <html lang="en">
